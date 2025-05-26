@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599157673278",
+    "project_id": "koster-d578a",
+    "storage_bucket": "koster-d578a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599157673278:android:ab8e1d8b63822aca39b06f",
+        "android_client_info": {
+          "package_name": "com.example.mvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wPerMF0CXRE6roJ2SCRFUKC2sgEptZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
